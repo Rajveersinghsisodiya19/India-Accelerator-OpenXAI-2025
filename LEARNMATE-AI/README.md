@@ -46,7 +46,7 @@ npm run dev
 nextjs-app/
 ├── app/
 │   ├── api/
-│   │   ├── flashcards/
+│   │   ├── flashcards/p
 │   │   │   └── route.ts          # Flashcard generation endpoint
 │   │   ├── quiz/
 │   │   │   └── route.ts          # Quiz generation endpoint
